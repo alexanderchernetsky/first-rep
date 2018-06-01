@@ -1,1 +1,1 @@
-This is readme file from GIT tutorial
+This is  the HELLO WORLD example from the GIT tutorial
